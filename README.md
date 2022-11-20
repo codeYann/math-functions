@@ -1,1 +1,1 @@
-# trigonometry
+# Math functions
